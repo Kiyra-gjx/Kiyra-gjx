@@ -1,4 +1,7 @@
-## Hi there 👋
+<img width="991" height="206" alt="b9976dff8594b7594137841eb2578386" src="https://github.com/user-attachments/assets/20f4f0e9-e20f-467e-b171-e50ce6d1576e" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF5F7&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'm+Kiyra-gjx.;A+Bug+Maker.)]
+(https://git.io/typing-svg)
+
 
 <!--
 **Kiyra-gjx/Kiyra-gjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
