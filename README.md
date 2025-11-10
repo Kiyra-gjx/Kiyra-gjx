@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF7F2&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'm+Kiyra.;A+Bug+Maker.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'm+Kiyra.;A+Bug+Maker.;A+Open+Source+Contribuiter)](https://git.io/typing-svg)
 
+<img src="https://api.visitorbadge.io/api/visitors?path=game1024.profile&countColor=%234ecdc4">
+
+<p align="center">我本一心向明月，奈何明月照沟渠</p>
+<p align="center">我寄真心与瑶池，从此山河皆故友</p>
 
 <!--
 **Kiyra-gjx/Kiyra-gjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
