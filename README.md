@@ -5,6 +5,10 @@
 <p align="center">我本一心向明月，奈何明月照沟渠</p>
 <p align="center">我寄真心与瑶池，从此山河皆故友</p>
 
+## 🎧 Netease Cloud Music
+
+[![银泰歌单](https://img.shields.io/badge/%E9%93%B6%E6%B3%B0%E6%AD%8C%E5%8D%95-%23C20C0C.svg?style=flat-square)](https://music.163.com/#/playlist?id=123456789)
+
 <!--
 **Kiyra-gjx/Kiyra-gjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
