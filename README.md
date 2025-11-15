@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'm+Kiyra.;A+Bug+Maker;Bckend+Developer)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'm+Kiyra.;A+Bug+Maker;Bckend+Developer" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">我本一心向明月，奈何明月照沟渠</p>
 <p align="center">我寄真心与瑶池，从此山河皆故友</p>
