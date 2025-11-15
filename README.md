@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'm+Kiyra.;A+Bug+Maker.;A+Open+Source+Contribuiter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hi%F0%9F%91%8B%EF%BC%8CI'm+Kiyra.;A+Bug+Maker;Bckend+Developer)](https://git.io/typing-svg)
 
 <p align="center">我本一心向明月，奈何明月照沟渠</p>
 <p align="center">我寄真心与瑶池，从此山河皆故友</p>
@@ -13,7 +13,7 @@
 
 ## 🚀 Who I Am
 
-I'm Shiro — a developer who cares about clean code, good architecture, and building useful tools.
+I'm Kiyra, also you can call me Shiina Mashiro — a developer who cares about clean code, good architecture, and building useful tools.
 
 I don’t just write code that works — I write code that lasts.
 
@@ -23,7 +23,7 @@ I don’t just write code that works — I write code that lasts.
 
     I'm always curious, always building — sometimes I break things just to learn.
 
----
+
 
 
 ```diff
@@ -33,9 +33,10 @@ I don’t just write code that works — I write code that lasts.
 ````
 ---
 
+### 📈 Contribution Graph
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Kiyra-gjx&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Kiyra-gjx&theme=react&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
 
 <p align="center">
@@ -50,7 +51,7 @@ I don’t just write code that works — I write code that lasts.
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,golang,c,cpp,mongodb,rocketmq,html,javascript,maven,md,mysql,vscode,idea,redis&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,golang,cpp,mongodb,rocketmq,html,docker,javascript,maven,md,mysql,vscode,idea,redis&titles=true" alt="skill icons" title="skill icons">
 </p>
 
 ---
@@ -66,12 +67,9 @@ I don’t just write code that works — I write code that lasts.
 
 ## 🌍 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nomena-razafimahandry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/shiro_yukami"><img src="https://img.shields.io/badge/-X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:noum.rzdr@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://shiro-cha.github.io"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+- 🛰️WeChat：Stars7171
+- 📖Blog：Kiyra.top
+- 📮Email：Kiyra.gjx@gmail.com
 
 ---
 
