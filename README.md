@@ -53,7 +53,7 @@ I don’t just write code that works — I write code that lasts.
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,golang,cpp,mongodb,rocketmq,html,docker,javascript,maven,md,mysql,vscode,idea,redis&titles=true" alt="skill icons" title="skill icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,golang,cpp,mongodb,rocketmq,kubernetes,docker,javascript,maven,md,mysql,vscode,idea,redis&titles=true" alt="skill icons" title="skill icons">
 </p>
 
 ---
