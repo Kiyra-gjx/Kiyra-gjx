@@ -6,7 +6,7 @@
 <p align="center">我寄真心与瑶池，从此山河皆故友</p>
 
 <p align="center">
-    <a href="https://wakatime.com/Kiyra"><img src="https://wakatime.com/badge/user/95ab2615-7aaf-41ea-a2ae-b10baf4e6e4c.svg" alt="wakatime" title="wakatime"/></a>
+    <a href="https://wakatime.com/@95ab2615-7aaf-41ea-a2ae-b10baf4e6e4c"><img src="https://wakatime.com/badge/user/95ab2615-7aaf-41ea-a2ae-b10baf4e6e4c.svg" alt="Total time coded since Nov 15 2025" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Kiyra-gjx"><img src="https://komarev.com/ghpvc/?username=Kiyra-gjx&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
